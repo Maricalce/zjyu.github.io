@@ -38,7 +38,6 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
 - *Accepted at the 33rd ACM International Conference on Multimedia* <span class="rucred">Oral</span>
-- [**<span style="color:#548656">Watch our promotional video on YouTube!</span>**](https://www.youtube.com/watch?v=lATSWn7t_Xc)
 
 </div>
 </div>
