@@ -69,7 +69,8 @@ I am **Zongji Yu**. I am currently a senior **undergraduate** at [School of Cont
 
 My research interests focus on **embodied intelligence, computer vision, and state space model**. Recently, I am focusing on:  
 1. **VLA-Safety**: vision-language-action model and its safety;  
-2. **Mamba**: state space model based vision model and its downstream tasks.  
+2. **Mamba**: state space model based vision model and its downstream tasks.
+   
 My research aims to **Build a bridge between artificial intelligence and robotics**, to move toward truly elegant embodied intelligence.
 
 
