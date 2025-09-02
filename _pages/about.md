@@ -38,6 +38,7 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
 - *Accepted at the 33rd ACM International Conference on Multimedia* <span class="rucred">Oral</span>
+- The first underwater instance segmentation model based on visual Mamba, designed with dynamic tree scan and background hidden state weaken modules.
 
 </div>
 </div>
@@ -50,6 +51,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 **Zongji Yu**, Jiaxin Li, Qun Yu
 
 - *Accepted at the 13th International Conference on Information Technology and Science* <span class="rucred">Poster</span>
+- Proposed a hierarchical distributed model predictive control system combined with ADMM to dynamically optimize the coordination efficiency of adjacent subsystems and accelerate convergence.
 
 </div>
 </div>
