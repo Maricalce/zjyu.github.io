@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zongji Yu. I am currently a **senior** undergraduate at [School of Control Science and Engineering, Shandong University](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor Cong Runmin, in April 2024. I am going to pursue a doctoral degree at the [Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)](https://www.siat.ac.cn/). In the future, I will work with Researcher Wang Yali from MMLab to conduct research related to artificial intelligence and embodied intelligence.
+I am Zongji Yu. I am currently a **senior** undergraduate at [School of Control Science and Engineering, Shandong University](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor Cong Runmin, in April 2024. I am going to pursue a doctoral degree at the [Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)](https://www.siat.ac.cn/). In the future, I will work with Researcher Wang Yali from MMLab to conduct research related to artificial intelligence and embodied intelligence.
 
 My research interests focus on **embodied intelligence, computer vision, and state space model**. Recently, I am focusing on:  
 (1) VLA-Safety: vision-language-action model and its safety;  
@@ -27,10 +27,10 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 
 # 🔥 News
 - *2025.07.04*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**. Congratulations to myself!
-- *2025.05.06*: &nbsp;🎉 A paper about MPC and Optimistic was accepted by **ICITS 2025**. Congratulations to myself!
+- *2025.05.06*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**. Congratulations to myself!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='../images/uismamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken](https://arxiv.org/pdf/2508.00421)
@@ -43,7 +43,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITS 2025</div><img src='../images/hdmpc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HD-MPC: Hierarchical Distributed Model Predictive Control for the Great Lakes Flow Network Optimization](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13682/3073387/HD-MPC)
@@ -56,16 +56,35 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🏆 2025 Mathematical Contest in Modeling(MCM) – *International First Prize (M Award)*
+- *2024.11*: &nbsp;💰 Inspur Scholarship – 5,000 CNY
+- *2024.04*: &nbsp;🏆 2024 Mathematical Contest in Modeling(MCM) – *International First Prize (M Award)*
+- *2023.12*: &nbsp;🏆 2023 Asia and Pacific Mathematical Contest in Modeling(APMCM) – *International First Prize*
+- *2023.11*: &nbsp;💰 Shandong Provincial Government Scholarship – 7,000 CNY
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08 – Present*: &nbsp;🇺🇸 **Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)**
+  
+  *- Major: computer technology, Supervisors: [Dr. Wang](https://szs.siat.ac.cn/siat/2025-02/21/article_2025022803252976064.html)*
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 – Present*: &nbsp;🇨🇳 **School of Control Science and Engineering, Shandong University**
+  
+  *- Bachelor of Engineering in Robotics Engineering, Supervisors: [Dr. Cong](https://rmcong.github.io/index.html)*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🪽 Beyond Academics
+I love **music, literature, travel and basketball**. I enjoy exploring hands-on projects related to robotics, as well as keeping up with cutting-edge embodied intelligence.
+
+# 🌍 Visitor Map
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
+
+
+<footer class="site-footer">
+  <p>&copy; 2025 Zongji Yu. All rights reserved.</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"
+       target="_blank" rel="noopener">Yi Ren</a>.
+  </p>
+</footer>
