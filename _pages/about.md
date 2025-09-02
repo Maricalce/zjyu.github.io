@@ -57,10 +57,10 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05*: &nbsp;🏆 2025 Mathematical Contest in Modeling(MCM) – *International First Prize (M Award)*
+- *2025.05*: &nbsp;🏆 2025 Mathematical Contest in Modeling (MCM) – *International First Prize (M Award)*
 - *2024.11*: &nbsp;💰 Inspur Scholarship – 5,000 CNY
-- *2024.04*: &nbsp;🏆 2024 Mathematical Contest in Modeling(MCM) – *International First Prize (M Award)*
-- *2023.12*: &nbsp;🏆 2023 Asia and Pacific Mathematical Contest in Modeling(APMCM) – *International First Prize*
+- *2024.04*: &nbsp;🏆 2024 Mathematical Contest in Modeling (MCM) – *International First Prize (M Award)*
+- *2023.12*: &nbsp;🏆 2023 Asia and Pacific Mathematical Contest in Modeling (APMCM) – *International First Prize*
 - *2023.11*: &nbsp;💰 Shandong Provincial Government Scholarship – 7,000 CNY
 
 
