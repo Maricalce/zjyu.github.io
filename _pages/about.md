@@ -15,6 +15,54 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+  .rucred {
+    display: inline-block;
+    background-color: rgb(174, 11, 42);
+    color: white;
+    font-size: 0.8em;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  .badge {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+</style>
+
+<style>
+  .logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem; 
+  }
+  .logo-row img {
+    height: 60px;
+    width: auto;
+    /* 
+       border-radius: 6px;
+       box-shadow: 0 0 6px rgba(0,0,0,.15); */
+  }
+</style>
+
+<style>
+  .site-footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: rgb(128, 128, 128);
+    margin: 2rem 0 1rem; 
+  }
+  .site-footer a {
+    color: inherit;
+    text-decoration: underline;
+  }
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 I am Zongji Yu. I am currently a **senior** undergraduate at [School of Control Science and Engineering, Shandong University](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor Cong Runmin, in April 2024. I am going to pursue a doctoral degree at the [Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)](https://www.siat.ac.cn/). In the future, I will work with Researcher Wang Yali from MMLab to conduct research related to artificial intelligence and embodied intelligence.
