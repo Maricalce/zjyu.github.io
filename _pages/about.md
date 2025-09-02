@@ -26,8 +26,8 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 
 
 # 🔥 News
-- *2025.07.04*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**. Congratulations to myself!
-- *2025.05.06*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**. Congratulations to myself!
+- *2025.07.04*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**!
+- *2025.05.06*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='../images/uismamba.png' alt="sym" width="100%"></div></div>
@@ -65,7 +65,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
 
 # 📖 Educations
-- *2025.08 – Present*: &nbsp;🇺🇸 **Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)**
+- *2025.08 – Present*: &nbsp;🇨🇳 **Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)**
   
   *- Major: computer technology, Supervisors: [Dr. Wang](https://szs.siat.ac.cn/siat/2025-02/21/article_2025022803252976064.html)*
 
