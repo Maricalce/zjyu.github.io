@@ -80,7 +80,7 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 - *2025.05.06*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='https://github.com/Maricalce/zjyu.github.io/tree/main/images/uismamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='../images/uismamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken](https://arxiv.org/pdf/2508.00421)
@@ -93,7 +93,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITS 2025</div><img src='images/hdmpc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITS 2025</div><img src='../images/hdmpc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HD-MPC: Hierarchical Distributed Model Predictive Control for the Great Lakes Flow Network Optimization](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13682/3073387/HD-MPC)
