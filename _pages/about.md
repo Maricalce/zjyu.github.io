@@ -131,9 +131,9 @@ I love **music, literature, travel and basketball**. I enjoy exploring hands-on 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
 
 <div class="logo-row">
-  <img src="../images/UCAS.png"      alt="">
-  <img src="../images/cuhk_logo_2x.png"  alt="">
-  <img src="../images/sdu_logo.jpg"      alt="">
+  <img src="images/UCAS.png"      alt="">
+  <img src="images/cuhk_logo_2x.png"  alt="">
+  <img src="images/sdu_logo.jpg"      alt="">
 </div>
 
 
