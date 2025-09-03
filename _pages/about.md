@@ -133,7 +133,7 @@ I love **music, literature, travel and basketball**. I enjoy exploring hands-on 
 <div class="logo-row">
   <img src="images/UCAS.png"      alt="">
   <img src="images/cuhk_logo_2x.png"  alt="">
-  <img src="images/sdu_logo.jpg"      alt="">
+  <img src="images/sdu_logo.png"      alt="">
 </div>
 
 
