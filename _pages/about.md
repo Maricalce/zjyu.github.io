@@ -69,9 +69,9 @@ redirect_from:
 
 I am **Zongji Yu**. I am currently a senior **undergraduate** at [School of Control Science and Engineering, Shandong University (**SDU**)](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor **Cong Runmin**, in April 2024. 
 
-"""
-I will go to pursue a PhD at the [Shenzhen Institutes of Advanced Technology (**SIAT**), University of Chinese Academy of Sciences (**UCAS**)](https://www.siat.ac.cn/), cooperating with the Chinese University of Hong Kong and Shanghai AILab. In the future, I will work with Researcher **Wang Yali** from MMLab to conduct research related to **artificial intelligence** and **embodied intelligence**.
-"""
+
+
+
 
 My research interests focus on **embodied intelligence, computer vision, and state space model**. Recently, I am focusing on:  
 1. **VLA-Safety**: vision-language-action model and its safety;  
@@ -120,9 +120,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
 
 # 📖 Educations
-- *2025.08 – Present*: &nbsp;🇨🇳 **Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences (UCAS)**
-  
-  *- Major: computer technology, Supervisors: [Dr. Wang](https://szs.siat.ac.cn/siat/2025-02/21/article_2025022803252976064.html)*
+
 
 - *2022.09 – Present*: &nbsp;🇨🇳 **School of Control Science and Engineering, Shandong University**
   
@@ -136,8 +134,7 @@ I love **music, literature, travel and basketball**. I enjoy exploring hands-on 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
 
 <div class="logo-row">
-  <img src="images/UCAS.png"      alt="">
-  <img src="images/cuhk_logo_2x.png"  alt="">
+
   <img src="images/sdu_logo.png"      alt="">
 </div>
 
