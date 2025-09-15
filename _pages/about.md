@@ -121,7 +121,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 # 📖 Educations
 
 
-- *2022.09 – Present*: &nbsp;🇨🇳 **School of Control Science and Engineering, Shandong University**
+- *2022.09 – Present*: &nbsp;🇨🇳 **School of Control Science and Engineering, Shandong University (SDU)**
   
   *- Bachelor of Engineering in Robotics Engineering, Supervisors: [Dr. Cong](https://rmcong.github.io/index.html)*
 
