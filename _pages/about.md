@@ -80,7 +80,7 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 I have been invited to serve as a reviewer for TCSVT (IEEE Transactions on Circuits and Systems for Video Technology, IF=11.015).
+- *2025.09*: &nbsp;🎉 I have been invited to serve as a reviewer for TCSVT (Trans on Circuits and Systems for Video Technology, IF=11.015).
 - *2025.07*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**!
 - *2025.06*: &nbsp;🎉 I have been invited to serve as a reviewer for the IEEE Journal of Oceanic Engineering (IF=3.883).
 - *2025.05*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
