@@ -141,6 +141,7 @@ I love **music, literature, travel and basketball**. I enjoy exploring hands-on 
 <div class="logo-row">
   <img src="images/SJTU.png"      alt="">
   <img src="images/sdu_logo.png"      alt="">
+  <img src="images/MVP.png"      alt="">
 </div>
 
 
