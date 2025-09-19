@@ -69,7 +69,7 @@ redirect_from:
 
 I am **Zongji Yu**. I am currently a senior **undergraduate** at [School of Control Science and Engineering, Shandong University (**SDU**)](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor **Cong Runmin**, in April 2024. 
 
-I will pursue a PhD degree at the **School of Automation and Perception, Shanghai Jiao Tong University (SJTU)**. In the future, I will work under the supervision of  Professor **Gong Chen** to carry out research in the fields of **artificial intelligence** and **embodied intelligence**.
+I will pursue a PhD degree at the **School of Automation and Perception, Shanghai Jiao Tong University (SJTU)**. In the future, I will work under the supervision of  Professor **Gong Chen**`s LEAP Group to carry out research in the fields of **artificial intelligence** and **embodied intelligence**.
 
 
 My research interests focus on **embodied intelligence, computer vision, and state space model**. Recently, I am focusing on:  
@@ -123,7 +123,7 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
 - *2022.09 – Present*: &nbsp;🇨🇳 **School of Control Science and Engineering, Shandong University (SDU)**
   
-  *- Bachelor of Engineering in Robotics Engineering, Supervisors: [Dr. Cong](https://rmcong.github.io/index.html)*
+  *- Bachelor of Engineering in Robotics Engineering, Supervisor: [Dr. Cong](https://rmcong.github.io/index.html)*
 
 - _2025.08 – Present_:  🇨🇳 **School of Automation and Perception, Shanghai Jiao Tong University (SJTU)**
     
