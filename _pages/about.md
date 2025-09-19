@@ -80,8 +80,10 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 
 
 # 🔥 News
-- *2025.07.04*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**!
-- *2025.05.06*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
+- *2025.09*: &nbsp;🎉 I have been invited to serve as a reviewer for TCSVT (IEEE Transactions on Circuits and Systems for Video Technology, IF=11.015)
+- *2025.07*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**!
+- *2025.06*: &nbsp;🎉 I have been invited to serve as a reviewer for the IEEE Journal of Oceanic Engineering (IF=3.883).
+- *2025.05*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/uismamba.png' alt="sym" width="100%"></div></div>
@@ -137,7 +139,7 @@ I love **music, literature, travel and basketball**. I enjoy exploring hands-on 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
 
 <div class="logo-row">
-
+  <img src="images/SJTU.png"      alt="">
   <img src="images/sdu_logo.png"      alt="">
 </div>
 
