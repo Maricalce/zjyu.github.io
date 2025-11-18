@@ -69,20 +69,24 @@ redirect_from:
 
 I am **Zongji Yu**. I am currently a senior **undergraduate** at [School of Control Science and Engineering, Shandong University (**SDU**)](https://www.sdu.edu.cn/sdgk/sdjj.htm). I joined the Key Laboratory of Machine Intelligence and System Control, Ministry of Education — the MVP Lab led by Professor **Cong Runmin**, in April 2024. 
 
-I will pursue a PhD degree at the [School of Automation and Perception, Shanghai Jiao Tong University (**SJTU**)](https://sais.sjtu.edu.cn/). In the future, I will work under the supervision of  Professor **Gong Chen**`s LEAP Group to carry out research in the fields of **artificial intelligence** and **embodied intelligence**.
+I will pursue a **Ph.D.** degree at the [School of Automation and Perception, Shanghai Jiao Tong University (**SJTU**)](https://sais.sjtu.edu.cn/). In the future, I will work under the supervision of  Professor **Gong Chen**`s LEAP Group to carry out research in the fields of **embodied intelligence** and **co-evolutionary learning**.
 
 
 My research interests focus on **embodied intelligence, computer vision, and state space model**. Recently, I am focusing on:  
-1. **VLA-Safety**: vision-language-action model and its safety;  
-2. **Mamba**: state space model based vision model and its downstream tasks.
+1. **VLA-Safety**: Vision-language-action model and its safety;  
+2. **Co-Evolutionary Learning**: To achieve the collaborative evolution of agent safety and capabilities.
    
-My research aims to **Build a bridge between artificial intelligence and robotics**, to move toward truly elegant embodied intelligence.
+My research aims to **Build a bridge between artificial intelligence and robotics, as well as the Co-Evolutionary of Safety and Ability**, to move toward truly elegant embodied intelligence.
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 I have been invited to serve as a reviewer for TCSVT (Trans on Circuits and Systems for Video Technology, IF=11.015).
+- *2025.11*: &nbsp;🎉 I will go to **Shanghai AILab** for an internship in December.!
+- *2025.11*: &nbsp;🎉 I became a candidate for **the President's Scholarship of Shandong University** (the highest honor of SDU)!
+- *2025.10*: &nbsp;🎉 I received the **BYD Scholarship** of 10,000 CNY (the only one in the entire college)!
+- *2025.09*: &nbsp;🎉 I successfully obtained a recommendation for admission to **the School of Automation and Perception, Shanghai Jiao Tong University** to pursue **Ph.D**, and got **191**(ranked **2/81**) among all directly admitted doctoral students.
+- *2025.09*: &nbsp;🎉 I have been invited to serve as a reviewer for **TCSVT** (Trans on Circuits and Systems for Video Technology, IF=11.015).
 - *2025.07*: &nbsp;🎉 A paper about Mamba and underwater tasks was accepted by **ACM MM 2025**!
-- *2025.06*: &nbsp;🎉 I have been invited to serve as a reviewer for the IEEE Journal of Oceanic Engineering (IF=3.883).
+- *2025.06*: &nbsp;🎉 I have been invited to serve as a reviewer for **the IEEE Journal of Oceanic Engineering** (IF=3.883).
 - *2025.05*: &nbsp;🎉 A paper about MPC and optimistic was accepted by **ICITS 2025**!
 
 # 📝 Publications
@@ -93,7 +97,7 @@ My research aims to **Build a bridge between artificial intelligence and robotic
 
 Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 
-- *Accepted at the 33rd ACM International Conference on Multimedia* <span class="rucred">Oral</span>
+- *Accepted at the 33rd ACM International Conference on Multimedia* <span class="rucred">Poster</span>
 - The first underwater instance segmentation model based on visual Mamba, designed with dynamic tree scan and background hidden state weaken modules.
 
 </div>
@@ -113,6 +117,8 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
 </div>
 
 # 🎖 Honors and Awards
+- *2025.11*: &nbsp;💰 the President's Scholarship of Shandong University - Candidate
+- *2025.10*: &nbsp;💰 BYD Scholarship – 10,000 CNY
 - *2025.05*: &nbsp;🏆 2025 Mathematical Contest in Modeling (MCM) – *International First Prize (M Award)*
 - *2024.11*: &nbsp;💰 Inspur Scholarship – 5,000 CNY
 - *2024.04*: &nbsp;🏆 2024 Mathematical Contest in Modeling (MCM) – *International First Prize (M Award)*
@@ -131,8 +137,9 @@ Runmin Cong, **Zongji Yu**, Hao Fang, Haoyan Sun, Sam Kwong
     
   *- Major: Control Science and Engineering; Supervisor: [Dr. Gong](https://gcatnjust.github.io/ChenGong/index.html)*
 
-# 🪽 Beyond Academics
-I love **music, literature, travel and basketball**. I enjoy exploring hands-on projects related to robotics, as well as keeping up with cutting-edge embodied intelligence.
+# 💻 Professional Services
+- 2025, Reviewer for the Trans on Circuits and Systems for Video Technology(TCSVT, IF=11.015).
+- 2025, Reviewer for the IEEE Journal of Oceanic Engineering(JOE, IF=3.883).
 
 # 🌍 Visitor Map
 
