@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zongji Yu 于宗吉"
-description              : "\"Everything that rises must converge.\""
+description              : "\"Make Co-evolving Embodied Intelligence.\""
 repository               : "Maricalce/zjyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zongji Yu 于宗吉"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "MVP Lab → LEAP Group"
-  location         : "Shandong, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fDR2utkAAAAJ&hl"
